@@ -1,0 +1,12 @@
+{
+    "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.2/",
+    "idf.toolsPathWin": "C:\\Espressif",
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "esp_wifi_types.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "esp_wifi.h": "c",
+        "freertos.h": "c"
+    }
+}
